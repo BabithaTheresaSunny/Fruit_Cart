@@ -1,0 +1,26 @@
+.header {
+  justify-content: flex-end;
+  padding: 0.3rem;
+  display: flex;
+  background-color: #b7a7ff;
+  color: #87ff7f;
+}
+
+.list {
+  background-color: #b7a7ff;
+  display: block;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 3.7em;
+  width: 50%;
+  margin: 4em;
+  margin-left: 20em;
+  border-radius: 2em;
+}
+
+.row {
+  background-color: black;
+}
+
+.logoutbtn {
+  height: 2em;
+}

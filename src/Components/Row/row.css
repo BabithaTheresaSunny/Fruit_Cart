@@ -1,0 +1,15 @@
+.card {
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding: 0.7em;
+  color: black;
+  align-items: center;
+}
+
+.fixbtn {
+  display: flex;
+  justify-content: space-between;
+}

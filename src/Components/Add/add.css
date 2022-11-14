@@ -1,0 +1,8 @@
+.adddiv {
+  margin-top: 2em;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 50px;
+  width: 50%;
+  align-items: center;
+}
